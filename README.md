@@ -1,2 +1,4 @@
 # spronzi.github.io
-personal website
+**Ryan's** personal website
+
+> *Don't forget rule #2: Double Tap*
