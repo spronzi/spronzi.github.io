@@ -11,4 +11,5 @@ My name is Ryan.  I drive for a living, moving always.
 
 This site is built using [Jekyll](http://jekyllrb.com) and the [centrarium](https://github.com/bencentra/centrarium) theme.
 
-Portland Skyline Picture by [Jami Dwyer](https://commons.wikimedia.org/wiki/File%3APortlandbridges.jpg).
+
+Road picture by [Derek Jensen](https://commons.wikimedia.org/wiki/File:Indiana-rural-road.jpg).

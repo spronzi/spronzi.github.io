@@ -1,10 +1,5 @@
-# External gems
-# gems:
-#   - jekyll-archives # Sorry, not GitHub pages friendly!
-#   - jekyll-sitemap
-
 # Site settings
-title: Spronzi's Lair
+title: Spronzi on the Move
 subtitle: "Never forget rule #2: Double Tap"
 email: spronzi@gmail.com
 name: Ryan Calhoun
@@ -12,7 +7,7 @@ description: >
   My simple little corner of the web.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://spronzi.github.io" # the base hostname & protocol for your site
-cover: "assets/images/header_image.jpg"
+cover: "assets/images/1280px-Indiana-rural-road.jpg"
 logo: "assets/images/logo.png"
 
 # Build settings
@@ -20,19 +15,6 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 
-# Archive settings (see https://github.com/jekyll/jekyll-archives/)
-# jekyll-archives: 
-#   enabled: 
-#     - categories
-#     - tags
-#   layout: 'archive'
-#   permalinks:
-#     category: '/category/:name/'
-#     tag: '/tag/:name/'
-
-
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
 descriptions:
